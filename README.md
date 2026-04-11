@@ -1,6 +1,6 @@
 # Clubhouse - Stake
 
-**A pool-funded multi-token staking platform with insolvency protection and scalable reward accounting on Conflux.**
+**Empowering Community Consensus Through Verifiable Solvency. A pool-funded multi-token staking platform with insolvency protection and scalable reward accounting on Conflux.**
 
 URL : https://conflux.clubhouse.fund/
 
@@ -9,6 +9,7 @@ URL : https://conflux.clubhouse.fund/
 ## Overview
 
 **Short description:** Clubhouse - Stake is a decentralized staking-as-a-service protocol designed to catalyze community consensus for AI agents, Memecoins, and IP-driven tokens. It solves the "hidden insolvency" issue found in traditional staking contracts by implementing a Net Liability accounting model, ensuring every reward is 100% backed by pool reserves. Unlike standard protocols, it offers a high-performance environment on Conflux eSpace that supports aggressive incentives (up to 400% Base APR) while maintaining total transparency. By leveraging Conflux, Clubhouse provides the sub-cent transaction fees and high throughput necessary for communities to scale their holding incentives without technical or financial friction.
+
 
 -----
 
