@@ -98,10 +98,10 @@ Clubhouse - Stake introduces a robust "Multi-Stake" architecture:
 ## 🏗️ Architecture
 
 ```
-┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   Frontend      │    │   Provider      │    │   Blockchain    │
+┌─────────────────┐    ┌─────────────────┐    ┌───────────────────┐
+│   Frontend      │    │   Provider      │    │   Blockchain      │
 │   (Next.js)     │◄──►│   (RPC/Wagmi)   │◄──►│   (Conflux eSpace)│
-└─────────────────┘    └─────────────────┘    └─────────────────┘
+└─────────────────┘    └─────────────────┘    └───────────────────┘
          │                                               │
          ▼                                               ▼
 ┌─────────────────┐                           ┌─────────────────────┐
@@ -208,7 +208,6 @@ If you need to deploy new instances of the staking contracts to the **Conflux Te
 | Network | Contract | Address | Explorer |
 | :---| :--- | :--- | :--- |
 | Conflux Testnet | ClubhouseMultiStake | `0xef34dcc94f44ddc0f0e6e323297935916ed26062` | [View on ConfluxScan]([https://evmtestnet.confluxscan.org/address/0xef34dcc94f44ddc0f0e6e323297935916ed26062]https://evmtestnet.confluxscan.org/address/0xef34dcc94f44ddc0f0e6e323297935916ed26062) |
-
 | Conflux eSpace | ClubhouseMultiStake | `0xd191bd6672842982be9dc685fa6bbcd746afea4b` | [View on ConfluxScan]([https://evmtestnet.confluxscan.org/address/0xef34dcc94f44ddc0f0e6e323297935916ed26062](https://evm.confluxscan.org/address/0xd191bd6672842982be9dc685fa6bbcd746afea4b)) |
 
 
